@@ -1,1 +1,67 @@
+<svg width="700" height="90" viewBox="0 0 700 90" xmlns="http://www.w3.org/2000/svg">
 
+  <rect width="700" height="90" rx="14" fill="#0d1117"/>
+
+  <text
+    x="30"
+    y="55"
+    fill="#58a6ff"
+    font-family="monospace"
+    font-size="28"
+    font-weight="600">
+    <tspan>Frontend Developer</tspan>
+    <animate
+      attributeName="opacity"
+      values="1;0;1"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </text>
+
+  <text
+    x="30"
+    y="55"
+    fill="#58a6ff"
+    font-family="monospace"
+    font-size="28"
+    font-weight="600"
+    opacity="0">
+    <tspan>Building Web Experiences</tspan>
+    <animate
+      attributeName="opacity"
+      values="0;1;0"
+      begin="3s"
+      dur="6s"
+      repeatCount="indefinite"/>
+  </text>
+
+  <text
+    x="30"
+    y="55"
+    fill="#58a6ff"
+    font-family="monospace"
+    font-size="28"
+    font-weight="600"
+    opacity="0">
+    <tspan>Learning • Building • Improving</tspan>
+    <animate
+      attributeName="opacity"
+      values="0;1;0"
+      begin="6s"
+      dur="9s"
+      repeatCount="indefinite"/>
+  </text>
+
+  <rect
+    x="650"
+    y="30"
+    width="3"
+    height="30"
+    fill="#58a6ff">
+    <animate
+      attributeName="opacity"
+      values="1;0;1"
+      dur="0.8s"
+      repeatCount="indefinite"/>
+  </rect>
+
+</svg>
