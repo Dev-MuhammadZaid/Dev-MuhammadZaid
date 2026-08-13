@@ -123,13 +123,17 @@ MERN Stack
 
 ---
 
-### Portfolio Site
+<div align="center">
 
-My frontend portfolio project and a place to present my development work.
+<a href="https://github.com/Dev-MuhammadZaid/portfolio-site-v1.0">
 
-**Stack:** HTML • CSS • JavaScript
+<img src="./assets/portfolio-card.svg"
+     alt="Portfolio Site"
+     width="900">
 
-- [Repository](https://github.com/Dev-MuhammadZaid/portfolio-site-v1.0)
+</a>
+
+</div>
 
 ---
 
@@ -163,27 +167,20 @@ Deploy
 
 <div align="center">
 
-<a href="https://github.com/Dev-MuhammadZaid">
-  <img src="https://github.com/Dev-MuhammadZaid.png" width="420" alt="Muhammad Zaid GitHub profile">
-</a>
-
-<br><br>
-
-**Explore my repositories, projects and development journey**
-
-<br>
-
-<a href="https://github.com/Dev-MuhammadZaid?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories">
-</a>
-
-<a href="https://github.com/Dev-MuhammadZaid?tab=stars">
-  <img src="https://img.shields.io/badge/My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
-</a>
+<img src="./assets/github-dashboard.svg" 
+     alt="GitHub Dashboard" 
+     width="900">
 
 </div>
 
 ---
+<div align="center">
+
+<img src="./assets/profile-activity.svg"
+     alt="Profile Activity"
+     width="900">
+
+</div>
 
 ## 📅 Contribution Activity
 
