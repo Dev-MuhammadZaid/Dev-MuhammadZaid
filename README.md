@@ -126,15 +126,17 @@ MERN Stack
 
 ## 🚀 Featured Projects
 
-### 1. ToDoList-v1
+<div align="center">
 
-A frontend todo application focused on DOM interaction, state-like UI updates, validation and user actions.
+<a href="https://github.com/Dev-MuhammadZaid/ToDoList-v1">
 
-**Stack:** HTML • CSS • JavaScript
+<img src="./assets/todo-card.svg"
+     alt="ToDoList v1"
+     width="900">
 
-- [Repository](https://github.com/Dev-MuhammadZaid/ToDoList-v1)
-- [Live Demo](https://dev-muhammadzaid.github.io/ToDoList-v1/)
+</a>
 
+</div>
 ---
 
 ### 2. Password Generator
@@ -197,26 +199,23 @@ Deploy
 
 <div align="center">
 
-<a href="https://github.com/Dev-MuhammadZaid">
-  <img src="https://github.com/Dev-MuhammadZaid.png" width="120" alt="Muhammad Zaid GitHub profile">
-</a>
-
-<br><br>
-
-**Explore my repositories, projects and development journey**
-
-<br>
-
-<a href="https://github.com/Dev-MuhammadZaid?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories">
-</a>
-
-<a href="https://github.com/Dev-MuhammadZaid?tab=stars">
-  <img src="https://img.shields.io/badge/My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
-</a>
+<img src="./assets/github-dashboard.svg" 
+     alt="GitHub Dashboard" 
+     width="900">
 
 </div>
 ---
+## 🔥 Contribution Activity
+
+<div align="center">
+
+<img src="./assets/contribution-activity.svg"
+     alt="Contribution Activity"
+     width="900">
+
+</div>
+---
+
 
 ## 🗂️ GitHub Activity
 
