@@ -92,23 +92,6 @@ Backend / MERN         ████░░░░░░░░░░░░░░░
 
 <img src="assets/skills.svg" alt="Skill progress dashboard" width="900">
 
-| Area | Progress |
-| HTML | 75–85% |
-| CSS Fundamentals | 75–85% |
-| Flexbox | 80–85% |
-| Responsive CSS | 70–80% |
-| JavaScript ES6+ | 65–75% |
-| DOM / Interaction | 65–75% |
-| Clean Code | 65–70% |
-| Code Readability | ~70% |
-| Component Thinking | 65–70% |
-| CSS Architecture | 55–65% |
-| Reusability | 60–70% |
-| Debugging | 60–70% |
-| Production Architecture | 50–60% |
-| Git / GitHub | Developing |
-| Deployment | Developing |
-| React / MERN | Next Major Stage |
 
 ---
 
@@ -210,41 +193,29 @@ Deploy
 ```
 
 ---
-
-## 📈 GitHub Dashboard
+## 📊 GitHub Dashboard
 
 <div align="center">
 
 <a href="https://github.com/Dev-MuhammadZaid">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-MuhammadZaid&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" alt="GitHub statistics">
+  <img src="https://github.com/Dev-MuhammadZaid.png" width="120" alt="Muhammad Zaid GitHub profile">
 </a>
 
-<a href="https://github.com/Dev-MuhammadZaid">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-MuhammadZaid&layout=compact&hide_border=true&theme=transparent" height="170" alt="Top languages">
+<br><br>
+
+**Explore my repositories, projects and development journey**
+
+<br>
+
+<a href="https://github.com/Dev-MuhammadZaid?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories">
+</a>
+
+<a href="https://github.com/Dev-MuhammadZaid?tab=stars">
+  <img src="https://img.shields.io/badge/My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
 </a>
 
 </div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dev-MuhammadZaid&theme=transparent&hide_border=true" alt="GitHub contribution streak">
-
-</div>
-
----
-
-## 📅 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-MuhammadZaid&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph">
-
-</div>
-
 ---
 
 ## 🗂️ GitHub Activity
