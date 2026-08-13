@@ -8,7 +8,7 @@
 
 **Building clean, responsive and interactive web experiences.**
 
-<img src="assets/profile.jpg" alt="Muhammad Zaid" width="170" style="border-radius:50%;">
+<img src="assets/profile.png" alt="Muhammad Zaid" width="1600" style="border-radius:50%;">
 
 <p>
   <a href="https://github.com/Dev-MuhammadZaid">
@@ -92,7 +92,6 @@ Backend / MERN         ████░░░░░░░░░░░░░░░
 
 <img src="assets/skills.svg" alt="Skill progress dashboard" width="900">
 
-
 ---
 
 ## 🧭 Learning Roadmap
@@ -124,43 +123,7 @@ MERN Stack
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Dev-MuhammadZaid/ToDoList-v1">
-
-<img src="./assets/todo-card.svg"
-     alt="ToDoList v1"
-     width="900">
-
-</a>
-
-</div>
----
-
-### 2. Password Generator
-
-A browser-based password generator project focused on JavaScript logic, user controls and dynamic output.
-
-**Stack:** HTML • CSS • JavaScript
-
-- [Repository](https://github.com/Dev-MuhammadZaid/password-generator-app-v1)
-- [Live Demo](https://dev-muhammadzaid.github.io/password-generator-app-v1/)
-
----
-
-### 3. Word Counter
-
-A frontend utility project focused on text input, DOM updates and real-time counting logic.
-
-**Stack:** HTML • CSS • JavaScript
-
-- [Repository](https://github.com/Dev-MuhammadZaid/word-counter-app-v1)
-
----
-
-### 4. Portfolio Site
+### Portfolio Site
 
 My frontend portfolio project and a place to present my development work.
 
@@ -195,27 +158,42 @@ Deploy
 ```
 
 ---
+
 ## 📊 GitHub Dashboard
 
 <div align="center">
 
-<img src="./assets/github-dashboard.svg" 
-     alt="GitHub Dashboard" 
-     width="900">
+<a href="https://github.com/Dev-MuhammadZaid">
+  <img src="https://github.com/Dev-MuhammadZaid.png" width="420" alt="Muhammad Zaid GitHub profile">
+</a>
+
+<br><br>
+
+**Explore my repositories, projects and development journey**
+
+<br>
+
+<a href="https://github.com/Dev-MuhammadZaid?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories">
+</a>
+
+<a href="https://github.com/Dev-MuhammadZaid?tab=stars">
+  <img src="https://img.shields.io/badge/My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
+</a>
 
 </div>
+
 ---
-## 🔥 Contribution Activity
+
+## 📅 Contribution Activity
 
 <div align="center">
 
-<img src="./assets/contribution-activity.svg"
-     alt="Contribution Activity"
-     width="900">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-MuhammadZaid&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph">
 
 </div>
----
 
+---
 
 ## 🗂️ GitHub Activity
 
