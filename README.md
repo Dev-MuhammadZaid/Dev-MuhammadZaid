@@ -125,9 +125,9 @@ MERN Stack
 
 <div align="center">
 
-<a href="https://github.com/Dev-MuhammadZaid/portfolio-site-v1.0">
+<a href="https://dev-muhammadzaid.github.io/portfolio-site-v1.0/">
 
-<img src="./assets/portfolio-card.svg"
+<img src="https://dev-muhammadzaid.github.io/portfolio-site-v1.0/assets/images/social-preview.png"
      alt="Portfolio Site"
      width="900">
 
