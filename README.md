@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0a561698-c41c-4c88-9746-c4e97e625598" /><div align="center">
 
 <img src="assets/header.svg" alt="Animated developer terminal" width="900">
 
@@ -8,7 +8,7 @@
 
 **Building clean, responsive and interactive web experiences.**
 
-<img src="assets/profile.png" alt="Muhammad Zaid" width="1600" style="border-radius:50%;">
+<img src="assets/Profile-pic.webp" alt="Muhammad Zaid" width="1600" style="border-radius:50%;">
 
 <p>
   <a href="https://github.com/Dev-MuhammadZaid">
@@ -125,9 +125,10 @@ MERN Stack
 
 <div align="center">
 
-<a href="https://dev-muhammadzaid.github.io/portfolio-site-v1.0/">
 
-<img src="https://dev-muhammadzaid.github.io/portfolio-site-v1.0/assets/images/social-preview.png"
+<a href="https://dev-muhammadzaid.github.io/portfolio-site-v2.0/">
+
+<img src="https://dev-muhammadzaid.github.io/portfolio-site-v2.0/assets/images/og-image.webp"
      alt="Portfolio Site"
      width="900">
 
