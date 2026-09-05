@@ -1,5 +1,3 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0a561698-c41c-4c88-9746-c4e97e625598" /><div align="center">
-
 <img src="assets/header.svg" alt="Animated developer terminal" width="900">
 
 # Muhammad Zaid
