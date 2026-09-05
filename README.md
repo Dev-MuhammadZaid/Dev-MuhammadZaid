@@ -181,13 +181,6 @@ Deploy
 
 </div>
 
-## 📅 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-MuhammadZaid&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph">
-
-</div>
 
 ---
 
